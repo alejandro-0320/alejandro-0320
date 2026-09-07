@@ -1,8 +1,8 @@
 ---
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/ks3UCCVLqtEYWXUxcH/giphy.gif" width="450" />
-</div>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM1aHFrc3IzMGJpZDRmMm9jMmllbjdmaDNyMThyZXdyMmt2cXVsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NtHa7ycOQP6RwoxgDI/giphy.gif" alt="GIF para perfil" width="250"/>
+</p>
 
 # <p align="center"> Alejandro Sepulveda </p>
 
